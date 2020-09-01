@@ -1,5 +1,6 @@
 import {sortByDistance} from "./distance";
-let stores = [
+let stores =
+[
 	{name:		"POINT 1",		x: -71.1189,		y: 42.3895},
 	{name:		"POINT 2",		x: -71.1131,		y: 42.3823},
 	{name:		"POINT 3",		x: -71.1489,		y: 42.3984},
